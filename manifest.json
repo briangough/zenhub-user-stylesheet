@@ -1,0 +1,16 @@
+{
+  "name": "Zenhub User Stylesheet",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://app.zenhub.com/*"
+      ],
+      "css": [
+        "zenhub-user-stylesheet.css"
+      ]
+    }
+  ],
+  "version": "0.1.0",
+  "description": "hide collapsed columns in zenhub",
+  "manifest_version": 2
+}

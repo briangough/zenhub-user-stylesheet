@@ -1,0 +1,11 @@
+div.zhc-pipeline.zhc-pipeline--is-collapsed {
+  display: none !important;
+}
+
+div.zhc-pipeline.zhc-pipeline--add-placeholder {
+  display: none !important;
+}
+
+div.zhc-sidebar {
+  display: none !important;
+}
